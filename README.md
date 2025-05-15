@@ -16,8 +16,6 @@ Pain saw peace through suffering. I debug life and code with that same energy.
 > “They see code. I see scars turned into syntax.”  
 > “They see projects. I see memories buried in branches.”
 
-
-
 ---
 
 ## 💻 I Build To Release
@@ -87,6 +85,11 @@ there's no pain.
 > If your heart is pure... or your code is broken...  
 > I will find you. Or you’ll find me.  
 > *(Contact coming soon… through rain.)*
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=2NCE3&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
 
 
 ---
