@@ -13,7 +13,7 @@ Pain saw peace through suffering. I debug life and code with that same energy.
 
 ---
 
-## 👤 Who is Peter Pain?
+##  Who is Peter Pain?
 
 I’m not just a developer — I’m the **rain-soaked philosopher** of the keyboard.  
 A modern ninja coding his way through chaos with conviction, clarity, and a little bit of caffeine.
@@ -22,7 +22,7 @@ A modern ninja coding his way through chaos with conviction, clarity, and a litt
 
 ---
 
-## 🧬 Living Human
+## 🧬 Living Human 
 
 - 🕋 **Faith**: Muslim  
 - 🔥 **Passion**: Code. Create. Conquer.  
@@ -33,7 +33,7 @@ A modern ninja coding his way through chaos with conviction, clarity, and a litt
   - HTML / CSS  
   - JavaScript  
 
-- 🧘‍♂️ **Philosophy**:  
+- **Philosophy**:  
   _"Sometimes you must hurt to know, fall to grow, lose to gain — because life’s greatest lessons are learned through pain."_
 
 ---
@@ -71,12 +71,7 @@ A modern ninja coding his way through chaos with conviction, clarity, and a litt
 > I will find you. Or you’ll find me.  
 > *(Contact coming soon… through rain.)*
 
----
-
-> _“Justice breeds vengeance, vengeance breeds pain… only through understanding can peace rise.”_  
-> – **Pain (Nagato)**
-
----
+--
 
 🌀 _“This world shall know code!”_  
 ✨ **ALMIGHTY PUSH TO GITHUB!** ✨
