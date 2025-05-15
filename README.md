@@ -73,7 +73,7 @@ Every question is a reminder of the weight I carry.
 Every conversation... a war I must fight in silence.  
 
 So please,  
-**Let me sleep, bro.**  
+**Let me sleep!**  
 
 Not because I'm tired,  
 but because in dreams,  
