@@ -47,12 +47,7 @@ against everything that tried to break me.
 
 - 🕋 **Faith**: Muslim  
 - 🔥 **Passion**: Code. Create. Conquer.  
-- 🧠 **Abilities**:  
-   C / C++  
-   Java  
-   Python  
-   HTML / CSS  
-   JavaScript  
+- 🧠 **Abilities**:  C , C++  ,   Java  ,   Python  ,   HTML , CSS  ,   JavaScript  
 
 - **Philosophy**:  
   _"Sometimes you must hurt to know, fall to grow, lose to gain — because life’s greatest lessons are learned through pain."_
