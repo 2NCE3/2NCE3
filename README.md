@@ -2,6 +2,10 @@
 
 ### I am Human, not God — I’ve got bugs in my code and in my life. Accept me anyway.
 
+##  Who is Peter Pain?
+    I’m a **code-born shadow**, a voice from the void, forged in silence.  
+
+
 I don’t want to be known.  
 I want my **pain** to be known —  
 code in mystery, scattered in branches, told in tags.
@@ -12,11 +16,7 @@ Pain saw peace through suffering. I debug life and code with that same energy.
 > “They see code. I see scars turned into syntax.”  
 > “They see projects. I see memories buried in branches.”
 
-##  Who is Peter Pain?
 
-I’m not just a developer —  
-I’m a **code-born shadow**, a voice from the void, forged in silence.  
-Not every programmer seeks light.  
 
 ---
 
