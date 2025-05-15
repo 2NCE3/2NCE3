@@ -1,6 +1,6 @@
 # Peter Pain
 
-![Pain Banner]((https://www.pinterest.com/pin/172896073188354640/))
+# I am human, not God, so I have faults, accept me.
 
 **2NCE3 · he/him**
 
