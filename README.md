@@ -7,7 +7,6 @@
 Pain saw peace through suffering. I debug life and code with that same energy.
 
 
-
 ##  Who is Peter Pain?
 
 I’m not just a developer — I’m the **rain-soaked philosopher** of the keyboard.  
