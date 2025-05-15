@@ -1,4 +1,4 @@
-# Peter Pain
+# Peter Pain - Code Shinobi
 
 ### I am Human, not God — I’ve got bugs in my code and in my soul. Accept me anyway.
 
@@ -7,55 +7,56 @@
 Pain saw peace through suffering. I debug life and code with that same energy.
 
 
+> “They see code. I see scars turned into syntax.”  
+> “They see projects. I see memories buried in branches.”
+
 ##  Who is Peter Pain?
 
-I’m not just a developer —
-I’m a code-born shadow, a voice from the void, a soul forged in silence.
-Not every programmer seeks light. Some of us code in the dark…
-because that’s where we were born.
+I’m not just a developer —  
+I’m a **code-born shadow**, a voice from the void, forged in silence.  
+Not every programmer seeks light.  
+Some of us were born in the dark… and we stayed.
 
-My name? Irrelevant.
-My identity? Masked.
-My works? Scattered across the digital world like forgotten shinobi missions,
-each with a different name — hidden, cloaked, misunderstood —
-just like me.
+---
 
-“They see code. I see scars turned into syntax.”
-“They see projects. I see memories buried in branches.”
+## 💻 I Build To Release
 
-I do not build to impress.
-I build to release.
-To scream through silence.
-To turn my agony into architecture.
+I don’t build to impress.  
+I build to scream — through silence,  
+turning agony into architecture, pain into platforms, grief into Git pushes.
 
-They don’t know what I’ve lost.
-They don’t see what I’ve become.
-But inside every repo… there’s a scream I turned into structure.
-A wound I turned into logic.
-A war I fought in silence.
+Inside every repo is a battle I didn’t speak of.  
+Every commit, a whisper of a war I survived.  
+Every project — a new **jutsu** cast to hold back the storm.
 
-This world is full of noise — influencers, stars, glory-seekers.
-But I am the silent rebellion.
-The rogue spark in the storm.
-Every repo, every commit, every anonymous release —
-is a fragment of pain I refuse to carry anymore.
+---
 
-I code not for fame —
-but for the truth that pain reveals:
-That peace only comes after the storm.
-That real understanding is born from real suffering.
+## 🔥 Set Fire To The Code
 
-“Those who do not know pain... will never know peace.”
+_"I set fire to the rain… and watched it pour as I touched your face."_  
+They don’t know what I’ve lost.  
+But I left the pain in my code —  
+where only the worthy will read between the lines.
 
-I don’t want to be known.
-I want my pain to be known — through my code,
-through the systems I build, through the stories I leave behind, unnamed.
+I don’t want to be known.  
+I want my **pain** to be known —  
+masked in mystery, scattered in branches, told in tags.
 
-Just like Pain from the Hidden Rain Village,
-I do not cry anymore.
-I let my creations speak.
-Each one is a jutsu of emotion —
-a digital Almighty Push against everything that tried to break me.
+---
+
+## ⚡ Shinobi of Silence
+
+Like Pain of the Hidden Rain,  
+I do not cry anymore.  
+I let my creations speak —  
+Each one a silent **Almighty Push**  
+against everything that tried to break me.
+
+> This world shall know pain.  
+> This repo shall know **me**.
+
+---
+
 
 
 
