@@ -108,7 +108,7 @@ against everything that tried to break me.
 > _AND NOW, THIS WORLD SHALL KNOW PAIN!_  
 > 💥 **ALMIGHTY PUSH!!!!** 💥
 
- _“This world shall know code!”_  
+ _**THIS WORLD SHALL KNOW CODE!**_  
 ✨ **ALMIGHTY PUSH TO GITHUB!** ✨
 
 ---
