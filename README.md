@@ -2,6 +2,9 @@
 
 ### I am Human, not God — I’ve got bugs in my code and in my soul. Accept me anyway.
 
+I don’t want to be known.  
+I want my **pain** to be known —  
+code in mystery, scattered in branches, told in tags.
 
 ## ⚡ Fun Fact:
 Pain saw peace through suffering. I debug life and code with that same energy.
@@ -31,14 +34,9 @@ Every project — a new **jutsu** cast to hold back the storm.
 
 ## 🔥 Set Fire To The Code 👨‍💻
 
-_"I set fire to the rain… and watched it pour as I touched your face."_  
 They don’t know what I’ve lost.  
 But I left the pain in my code —  
 where only the worthy will read between the lines.
-
-I don’t want to be known.  
-I want my **pain** to be known —  
-masked in mystery, scattered in branches, told in tags.
 
 ---
 
