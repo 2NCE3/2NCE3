@@ -88,11 +88,19 @@ against everything that tried to break me.
 - Peaceful AI… or chaotic neutral bots, I don’t judge
 
 ---
+## 💬 Ask Me About:  
+**Nothing...**
 
-## 💬 Ask Me About:
-- Akatsuki APIs  
-- The Six Paths of Web Dev  
-- Real pain. Real growth. Real bugs.
+The world has already asked too much of me.  
+Every question is a reminder of the weight I carry.  
+Every conversation... a war I must fight in silence.  
+
+So please,  
+**Let me sleep, bro.**  
+
+Not because I'm tired,  
+but because in dreams,  
+there's no pain.
 
 ---
 
@@ -106,7 +114,7 @@ against everything that tried to break me.
 > _AND NOW, THIS WORLD SHALL KNOW PAIN!_  
 > 💥 **ALMIGHTY PUSH!!!!** 💥
 
- _**THIS WORLD SHALL KNOW CODE!**_  
+ _*THIS WORLD SHALL KNOW CODE!*_  
 ✨ **ALMIGHTY PUSH TO GITHUB!** ✨
 
 ---
