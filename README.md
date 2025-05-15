@@ -55,7 +55,7 @@ against everything that tried to break me.
 ---
 
 ## 🔧 Current Mission:
-- 🥷 Mastering code like a shinobi masters jutsu  
+- 😎 Mastering code like a shinobi masters jutsu  
 - 🛠 Building tools that balance power and peace  
 - 🧭 Following my ninja way in the digital world  
 
