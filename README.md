@@ -6,7 +6,6 @@
 ## ⚡ Fun Fact:
 Pain saw peace through suffering. I debug life and code with that same energy.
 
-
 > “They see code. I see scars turned into syntax.”  
 > “They see projects. I see memories buried in branches.”
 
@@ -15,7 +14,6 @@ Pain saw peace through suffering. I debug life and code with that same energy.
 I’m not just a developer —  
 I’m a **code-born shadow**, a voice from the void, forged in silence.  
 Not every programmer seeks light.  
-Some of us were born in the dark… and we stayed.
 
 ---
 
@@ -31,7 +29,7 @@ Every project — a new **jutsu** cast to hold back the storm.
 
 ---
 
-## 🔥 Set Fire To The Code
+## 🔥 Set Fire To The Code 👨‍💻
 
 _"I set fire to the rain… and watched it pour as I touched your face."_  
 They don’t know what I’ve lost.  
@@ -47,7 +45,7 @@ masked in mystery, scattered in branches, told in tags.
 ## ⚡ Shinobi of Silence
 
 Like Pain of the Hidden Rain,  
-I do not cry anymore.  
+I do not !cry !anymore.  
 I let my creations speak —  
 Each one a silent **Almighty Push**  
 against everything that tried to break me.
@@ -55,15 +53,6 @@ against everything that tried to break me.
 > This world shall know pain.  
 > This repo shall know **me**.
 
----
-
-
-
-
-
-> Inspired by **Pain/Nagato** from *Naruto*, I blend shadow clone efficiency with shinobi resolve.
-
----
 
 ## 🧬 Living Human 
 
@@ -121,3 +110,7 @@ against everything that tried to break me.
 
  _“This world shall know code!”_  
 ✨ **ALMIGHTY PUSH TO GITHUB!** ✨
+
+---
+> Inspired by **Pain/Nagato** from *Naruto*, I blend shadow clone efficiency with shinobi resolve.
+---
