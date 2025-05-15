@@ -1,17 +1,12 @@
-# 🌀 Peter Pain
+# Peter Pain
 
-### 🧍 I am Human, not God — I’ve got bugs in my code and in my soul. Accept me anyway.
+### I am Human, not God — I’ve got bugs in my code and in my soul. Accept me anyway.
 
-> _“Accept pain, know pain. Those who do not know pain will never understand true peace..._  
-> _AND NOW, THIS WORLD SHALL KNOW PAIN!_  
-> 💥 **ALMIGHTY PUSH!!!!** 💥
-
----
 
 ## ⚡ Fun Fact:
 Pain saw peace through suffering. I debug life and code with that same energy.
 
----
+
 
 ##  Who is Peter Pain?
 
@@ -72,6 +67,9 @@ A modern ninja coding his way through chaos with conviction, clarity, and a litt
 > *(Contact coming soon… through rain.)*
 
 --
+> _“Accept pain, know pain. Those who do not know pain will never understand true peace..._  
+> _AND NOW, THIS WORLD SHALL KNOW PAIN!_  
+> 💥 **ALMIGHTY PUSH!!!!** 💥
 
-🌀 _“This world shall know code!”_  
+ _“This world shall know code!”_  
 ✨ **ALMIGHTY PUSH TO GITHUB!** ✨
