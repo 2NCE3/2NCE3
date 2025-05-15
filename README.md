@@ -3,7 +3,7 @@
 ### I am Human, not God — I’ve got bugs in my code and in my life. Accept me anyway.
 
 ##  Who is Peter Pain?
-    I’m a **code-born shadow**, a voice from the void, forged in silence.  
+    I’m a code-born shadow, a voice from the void, forged in silence.  
 
 
 I don’t want to be known.  
