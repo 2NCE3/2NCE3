@@ -2,8 +2,6 @@
 
 # I am human, not God, so I have faults, accept me.
 
-**2NCE3 · he/him**
-
 > "Accept pain, know pain, those who do not know pain will never understand true peace... and now, this world shall know pain! **Almighty Push!!!!**"
 
 ---
@@ -20,7 +18,19 @@ Inspired by **Nagato / Pain (ペイン)** from the Naruto universe, I embody the
 
 - **Clan**: Uzumaki  
 - **Affiliation**: Akatsuki  
-- **Abilities**: Rinnegan, Six Paths of Pain, Almighty Push, Chibaku Tensei  
+- **Abilities**: Rinnegan, Six Paths of Pain, Almighty Push, Chibaku Tensei
+- ---
+
+## 🛐 Identity & Skills
+
+- **Faith**: Muslim  
+- **Passion**: Code, Create, Conquer  
+- **Abilities**:  
+  - 🧠 C / C++  
+  - ☕ Java  
+  - 🐍 Python  
+  - 🌐 HTML / CSS  
+  - ⚡ JavaScript
 - **Philosophy**: “Sometimes you must hurt to know, fall to grow, lose to gain — because life’s greatest lessons are learned through pain.”
 
 ---
