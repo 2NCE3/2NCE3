@@ -1,6 +1,6 @@
 # Peter Pain
 
-![Pain Banner](./d3770bc5-12ba-464a-8c04-bfba0da75554.png)
+![Pain Banner]((https://www.pinterest.com/pin/172896073188354640/))
 
 **2NCE3 · he/him**
 
