@@ -48,11 +48,11 @@ against everything that tried to break me.
 - 🕋 **Faith**: Muslim  
 - 🔥 **Passion**: Code. Create. Conquer.  
 - 🧠 **Abilities**:  
-  - C / C++  
-  - Java  
-  - Python  
-  - HTML / CSS  
-  - JavaScript  
+   C / C++  
+   Java  
+   Python  
+   HTML / CSS  
+   JavaScript  
 
 - **Philosophy**:  
   _"Sometimes you must hurt to know, fall to grow, lose to gain — because life’s greatest lessons are learned through pain."_
@@ -70,13 +70,6 @@ against everything that tried to break me.
 - Chakra control = mastering Python, JavaScript, AI  
 - Building Hidden Rain 2.0 (a.k.a. sick full-stack web apps)  
 - Automating missions (Python bots, scripts, and AI hacks)
-
----
-
-## 🤝 Team-Ups Wanted:
-- Projects with real **purpose** and **punch**  
-- Anime-themed apps, games, or wild storytelling code  
-- Peaceful AI… or chaotic neutral bots, I don’t judge
 
 ---
 ## 💬 Ask Me About:  
@@ -100,23 +93,6 @@ there's no pain.
 > I will find you. Or you’ll find me.  
 > *(Contact coming soon… through rain.)*
 
-
-
---
-> _“Accept pain, know pain. Those who do not know pain will never understand true peace..._  
-> _AND NOW, THIS WORLD SHALL KNOW PAIN!_  
-> 💥 **ALMIGHTY PUSH!!!!** 💥
-
-
----
-They don’t know what I’ve lost.  
-But I left the pain in my code —  
-where only the worthy will read between the lines.
----
-
-
- _*THIS WORLD SHALL KNOW CODE!*_  
-✨ **ALMIGHTY PUSH TO GITHUB!** ✨
 
 ---
 > Inspired by **Pain/Nagato** from *Naruto*, I blend shadow clone efficiency with shinobi resolve.
