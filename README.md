@@ -1,6 +1,6 @@
 # Peter Pain - Code Shinobi
 
-### I am Human, not God — I’ve got bugs in my code and in my soul. Accept me anyway.
+### I am Human, not God — I’ve got bugs in my code and in my life. Accept me anyway.
 
 I don’t want to be known.  
 I want my **pain** to be known —  
@@ -30,15 +30,6 @@ Inside every repo is a battle I didn’t speak of.
 Every commit, a whisper of a war I survived.  
 Every project — a new **jutsu** cast to hold back the storm.
 
----
-
-## 🔥 Set Fire To The Code 👨‍💻
-
-They don’t know what I’ve lost.  
-But I left the pain in my code —  
-where only the worthy will read between the lines.
-
----
 
 ## ⚡ Shinobi of Silence
 
@@ -109,10 +100,20 @@ there's no pain.
 > I will find you. Or you’ll find me.  
 > *(Contact coming soon… through rain.)*
 
+
+
 --
 > _“Accept pain, know pain. Those who do not know pain will never understand true peace..._  
 > _AND NOW, THIS WORLD SHALL KNOW PAIN!_  
 > 💥 **ALMIGHTY PUSH!!!!** 💥
+
+
+--
+They don’t know what I’ve lost.  
+But I left the pain in my code —  
+where only the worthy will read between the lines.
+--
+
 
  _*THIS WORLD SHALL KNOW CODE!*_  
 ✨ **ALMIGHTY PUSH TO GITHUB!** ✨
