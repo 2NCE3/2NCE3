@@ -108,11 +108,11 @@ there's no pain.
 > 💥 **ALMIGHTY PUSH!!!!** 💥
 
 
---
+---
 They don’t know what I’ve lost.  
 But I left the pain in my code —  
 where only the worthy will read between the lines.
---
+---
 
 
  _*THIS WORLD SHALL KNOW CODE!*_  
