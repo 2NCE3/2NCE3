@@ -87,7 +87,9 @@ there's no pain.
 > *(Contact coming soon… through rain.)*
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=2NCE3&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=2NCE3&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
+
 
 # SHINRA TENSEI . . .
 
