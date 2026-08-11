@@ -87,13 +87,12 @@ there's no pain.
 > *(Contact coming soon… through rain.)*
 
 # 📊 GitHub Stats:
-
-[![](https://github-readme-streak-stats-eight.vercel.app?user=2NCE3&theme=transparent)](https://git.io/streak-stats)
+<!-- [![](https://github-readme-streak-stats-eight.vercel.app?user=2NCE3&theme=transparent)](https://git.io/streak-stats) --->
 [![](https://github-stats-extended.vercel.app/api/top-langs?username=2NCE3&layout=compact&langs_count=12&disable_animations=true&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=2NCE3&layout=compact&langs_count=12&disable_theme=transparent)            
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=2NCE3&theme=transparent)
 
-# SHINRA TENSEI . . .
 
+# SHINRA TENSEI . . .
 
 ---
 > Inspired by **Pain/Nagato** from *Naruto*, I blend shadow clone efficiency with shinobi resolve.
