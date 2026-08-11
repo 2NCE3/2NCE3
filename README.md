@@ -89,7 +89,8 @@ there's no pain.
 # 📊 GitHub Stats:
 
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=2NCE3&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
-
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=2NCE3&layout=compact&langs_count=12&disable_animations=true&theme=github_dark)](https://github-stats-extended.vercel.app/api/top-langs?username=2NCE3&layout=compact&langs_count=12&disable_animations=true&theme=github_dark)            
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=2NCE3&theme=default)
 
 # SHINRA TENSEI . . .
 
