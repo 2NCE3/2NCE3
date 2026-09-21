@@ -7,9 +7,9 @@ I collect scars.
 I push to GitHub.
 **Somehow, it works.**
 
-🧠 **Stack:** C · C++ · Java · Python · JS
-🥷 **Mission:** Code → Break → Debug → Repeat
-🌧️ **Philosophy:** *Pain taught me. Git remembers me.*
+🧠 **Stack:** C · C++ · Java · Python · JS      
+🥷 **Mission:** Code → Break → Debug → Repeat      
+🌧️ **Philosophy:** *Pain taught me. Git remembers me.*       
 
 > “They see code. I see scars turned into syntax.”
 
