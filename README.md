@@ -1,100 +1,33 @@
-# Peter Pain - Code Shinobi
+# ☔ Peter Pain — Code Shinobi
 
-### I am Human, not God — I’ve got bugs in my code and in my life. Accept me anyway.
+> **Human, not God. Bugs in code. Bugs in life. Ship anyway.**
 
-##  Who is Peter Pain?
-< " A ghost in the machine, I was written by pain and debugged by solitude, a voice from the void, forged in silence. "\\>
+I write code.
+I collect scars.
+I push to GitHub.
+**Somehow, it works.**
 
+🧠 **Stack:** C · C++ · Java · Python · JS
+🥷 **Mission:** Code → Break → Debug → Repeat
+🌧️ **Philosophy:** *Pain taught me. Git remembers me.*
 
-I don’t want to be known.  
-I want my **pain** to be known —  
-code in mystery, scattered in branches, told in tags.
+> “They see code. I see scars turned into syntax.”
 
-## ⚡ Fun Fact:
-Pain saw peace through suffering. I debug life and code with that same energy.
+### ⚡ Current Jutsu
 
-> “They see code. I see scars turned into syntax.”  
-> “They see projects. I see memories buried in branches.”
+* 🐍 Mastering Python
+* 🤖 AI experiments
+* 🌐 Building questionable web apps
+* 💀 Fighting bugs at 3 AM
 
----
+### 💤 Ask Me About
 
-## 💻 I Build To Release
+**Nothing.**
 
-I don’t build to impress.  
-I build to scream — through silence,  
-turning agony into architecture, pain into platforms, grief into Git pushes.
+I have suffered enough.
 
-Inside every repo is a battle I didn’t speak of.  
-Every commit, a whisper of a war I survived.  
-Every project — a new **jutsu** cast to hold back the storm.
+```text
+SHINRA TENSEI . . .
+```
 
-
-## ⚡ Shinobi of Silence
-
-Like Pain of the Hidden Rain,  
-I do not !cry !anymore.  
-I let my creations speak —  
-Each one a silent **Almighty Push**  
-against everything that tried to break me.
-
-> This world shall know pain.  
-> This repo shall know **me**.
-
-
-## 🧬 Living Human 
-
-- 🕋 **Faith**: Muslim  
-- 🔥 **Passion**: Code. Create. Conquer.  
-- 🧠 **Abilities**:  C , C++  ,   Java  ,   Python  ,   HTML , CSS  ,   JavaScript  
-
-- **Philosophy**:  
-  _"Sometimes you must hurt to know, fall to grow, lose to gain — because life’s greatest lessons are learned through pain."_
-
----
-
-## 🔧 Current Mission:
-- 😎 Mastering code like a shinobi masters jutsu  
-- 🛠 Building tools that balance power and peace  
-- 🧭 Following my ninja way in the digital world  
-
----
-
-## 🧠 Still Grinding On:
-- Chakra control = mastering Python, JavaScript, AI  
-- Building Hidden Rain 2.0 (a.k.a. sick full-stack web apps)  
-- Automating missions (Python bots, scripts, and AI hacks)
-
----
-## 💬 Ask Me About:  
-**Nothing...**
-
-The world has already asked too much of me.  
-Every question is a reminder of the weight I carry.  
-Every conversation... a war I must fight in silence.  
-
-So please,  
-**Let me sleep!**  
-
-Not because I'm tired,  
-but because in dreams,  
-there's no pain.
-
----
-
-## 📫 Contact Me:
-> If your heart is pure... or your code is broken...  
-> I will find you. Or you’ll find me.  
-> *(Contact coming soon… through rain.)*
-
-<!-- 
-# 📊 GitHub Stats:
-[![](https://github-readme-streak-stats-eight.vercel.app?user=2NCE3&theme=transparent)](https://git.io/streak-stats) 
-[![](https://github-stats-extended.vercel.app/api/top-langs?username=2NCE3&layout=compact&langs_count=12&disable_animations=true&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=2NCE3&layout=compact&langs_count=12&disable_theme=transparent)            
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=2NCE3&theme=transparent)
---->
-
-# SHINRA TENSEI . . .
-
----
-> Inspired by **Pain/Nagato** from *Naruto*, I blend shadow clone efficiency with shinobi resolve.
----
+> Inspired by **Pain/Nagato** — because apparently normal README files weren't dramatic enough.
