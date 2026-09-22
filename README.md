@@ -1,6 +1,6 @@
 # `peter-pain`
 
-```text
+```js
 $ ./profile
 
 [ SYSTEM ]
